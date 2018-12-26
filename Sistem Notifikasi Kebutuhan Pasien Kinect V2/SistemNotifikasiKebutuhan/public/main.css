@@ -1,0 +1,9 @@
+#container{
+	width:97vw;
+  height:97vh;
+  margin:auto;
+  background-image:url('images/Capture-Logo-TA.png');
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+}

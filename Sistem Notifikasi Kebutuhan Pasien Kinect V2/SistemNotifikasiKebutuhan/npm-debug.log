@@ -1,0 +1,50 @@
+info it worked if it ends with ok
+verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+verbose cli   'install',
+verbose cli   'sweetalert',
+verbose cli   '--save' ]
+info using npm@1.1.0-beta-4
+info using node@v0.6.6
+verbose config file C:\Users\Febby Febriansyah\.npmrc
+verbose config file C:\Program Files\nodejs\etc\npmrc
+verbose config file C:\Program Files\nodejs\node_modules\npm\npmrc
+verbose mkdir done: E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping 755
+verbose into E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping [ 'sweetalert' ]
+verbose cache add sweetalert
+verbose cache add [ 'sweetalert', null ]
+silly cache add: name, spec, args [ undefined, 'sweetalert', [ 'sweetalert', null ] ]
+verbose parsed url { pathname: 'sweetalert',
+verbose parsed url   path: 'sweetalert',
+verbose parsed url   href: 'sweetalert' }
+verbose addNamed [ 'sweetalert', '' ]
+verbose addNamed [ null, '' ]
+silly name, range, hasData [ 'sweetalert', '', false ]
+verbose raw, before any munging sweetalert
+verbose url resolving [ 'https://registry.npmjs.org/', './sweetalert' ]
+verbose url resolved https://registry.npmjs.org/sweetalert
+http GET https://registry.npmjs.org/sweetalert
+silly get cb [ 304, undefined ]
+ERR! Error: failed to fetch from registry: sweetalert
+ERR!     at C:\Program Files\nodejs\node_modules\npm\lib\utils\npm-registry-client\get.js:139:12
+ERR!     at cb (C:\Program Files\nodejs\node_modules\npm\lib\utils\npm-registry-client\request.js:32:9)
+ERR!     at Request._callback (C:\Program Files\nodejs\node_modules\npm\lib\utils\npm-registry-client\request.js:137:18)
+ERR!     at Request.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\main.js:104:22)
+ERR!     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\main.js:181:58)
+ERR!     at Request.emit (events.js:88:20)
+ERR!     at ClientRequest.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\main.js:329:14)
+ERR!     at ClientRequest.emit (events.js:67:17)
+ERR!     at HTTPParser.onIncoming (http.js:1225:11)
+ERR!     at HTTPParser.onHeadersComplete (http.js:102:31)
+ERR! Report this *entire* log at:
+ERR!     <http://github.com/isaacs/npm/issues>
+ERR! or email it to:
+ERR!     <npm-@googlegroups.com>
+ERR! 
+ERR! System Windows_NT 6.2.9200
+ERR! command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "sweetalert" "--save"
+ERR! cwd E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping
+ERR! node -v v0.6.6
+ERR! npm -v 1.1.0-beta-4
+ERR! message failed to fetch from registry: sweetalert
+verbose exit [ 1, true ]

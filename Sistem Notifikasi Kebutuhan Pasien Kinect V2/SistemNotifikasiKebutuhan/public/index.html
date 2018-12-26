@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="height=device-height, width=device-width, initial-scale=1.0" />
+    <link type="text/css" rel="stylesheet" href="main.css" />
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <!--alihkan ke host library jika CDN (Content Delivery Network) tidak berhasil dimuat-->
+    <script>
+        window.jQuery || document.write('<script src="assets/jquery/dist/jquery.min.js"><\/script>');
+        window.swal || document.write('<script src="assets/sweetalert/dist/sweetalert.min.js"><\/script>');
+    </script>
+
+    <title>Sistem Notifikasi Kebutuhan Pasien</title>
+</head>
+<body>
+    <script src="notifikasi.js"></script>
+
+    <div id="container"></div>
+
+    <!--Sound for feedback command in website-->
+    <audio id="terima-kasih" src="sounds/MP3/sound-terima-kasih.mp3" type="audio/mpeg" preload="auto"></audio>
+    <audio id="panggilan-darurat" src="sounds/MP3/sound-panggilan-darurat.mp3" type="audio/mpeg" preload="auto"></audio>
+    <audio id="infus-habis" src="sounds/MP3/sound-infus-habis.mp3" type="audio/mpeg" preload="auto"></audio>
+    <audio id="bantu-buang-hajat" src="sounds/MP3/sound-bantu-buang-hajat.mp3" type="audio/mpeg" preload="auto"></audio>
+    <audio id="perintah-tidak-dikenali" src="sounds/MP3/sound-perintah-tidak-dikenali.mp3" type="audio/mpeg" preload="auto"></audio>
+    <audio id="fall-detection" src="sounds/MP3/sound-fall-detection.mp3" type="audio/mpeg" preload="auto"></audio>
+</body>
+</html>

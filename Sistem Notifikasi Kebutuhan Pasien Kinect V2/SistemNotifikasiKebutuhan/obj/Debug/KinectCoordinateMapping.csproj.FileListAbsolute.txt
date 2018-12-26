@@ -1,0 +1,109 @@
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\File\Bahan KP\Source Code\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\File\Bahan KP\Tugas KP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Amar\Desktop\tes\nyoba\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 9 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\DOKTOR\Eksperimen Disertasi\20170718_kinect 15 Perintah\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\DOKTOR\Eksperimen Disertasi\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+E:\03 15 Perintah Gerakan\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_Content.g.cs
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb

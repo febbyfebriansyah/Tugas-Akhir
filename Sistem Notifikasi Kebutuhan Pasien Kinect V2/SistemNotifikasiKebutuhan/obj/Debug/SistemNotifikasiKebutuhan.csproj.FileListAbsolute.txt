@@ -1,0 +1,16 @@
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\bin\Debug\KinectCoordinateMapping.exe.config
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping.exe
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping.pdb
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\bin\Debug\KinectCoordinateMapping.exe
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\bin\Debug\KinectCoordinateMapping.pdb
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\bin\Debug\Microsoft.Kinect.dll
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\bin\Debug\Microsoft.Kinect.xml
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\SistemNotifikasiKebutuhan.csprojResolveAssemblyReference.cache
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\MainWindow.baml
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\MainWindow.g.cs
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\App.g.cs
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping_Content.g.cs
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping.g.resources
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+E:\Sistem Notifikasi Kebutuhan Pasien Kinect V2\SistemNotifikasiKebutuhan\obj\Debug\SistemNotifikasiKebutuhan.csproj.GenerateResource.Cache
